@@ -1,0 +1,12 @@
+{
+    "name": "sun/next-fly",
+    "description": "redeveloppement de nextfly",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Karim",
+            "email": "ngami.karim@yahoo.fr"
+        }
+    ],
+    "require": {}
+}
